@@ -1,0 +1,5 @@
+{
+  "magento": {
+    "graphqlUrl": "https://magento.test/graphql"
+  }
+}
